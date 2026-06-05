@@ -24,6 +24,7 @@ Each skill is:
 |-------|-----|-------------------|
 | [job-seeker](skills/job-seeker/SKILL.md) | Anyone applying for work | Cover letters, recruiter emails, LinkedIn outreach, follow-ups |
 | [consultant](skills/consultant/SKILL.md) | Freelancers and independent consultants | Project proposals, bids, client emails, scope summaries |
+| [marketer](skills/marketer/SKILL.md) | Marketing managers and brand writers | Instagram captions, Meta Ads, Google Ads, email, landing pages, LinkedIn posts, TikTok scripts, product descriptions |
 | [psychologist](skills/psychologist/SKILL.md) | Mental health professionals | *(coming soon — in progress)* |
 
 ---
